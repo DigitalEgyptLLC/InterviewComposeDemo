@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="home_item_title_prefix">Title number:</string>
+</resources>
